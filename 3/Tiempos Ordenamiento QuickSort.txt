@@ -1,0 +1,46 @@
+MAQUINA EN EL QUE SE REALIZARON LAS PRUEBAS.
+
+PROCESADOR INTEL(R) CORE(TM) I7-2670QM CPU @ 2.20GHz 2.20GHz
+MEMORIA INSTALADA (RAM) 8.00 GB
+
+TAMAÑO DE NUMEROS A ORDENAR 10
+
+Tiempo De Ordenamiento: 0.000049
+Tiempo De Ordenamiento: 0.000037
+Tiempo De Ordenamiento: 0.000038
+Tiempo De Ordenamiento: 0.000023
+Tiempo De Ordenamiento: 0.000023
+Tiempo De Ordenamiento: 0.000022
+Tiempo De Ordenamiento: 0.000021
+Tiempo De Ordenamiento: 0.000022
+Tiempo De Ordenamiento: 0.000024
+Tiempo De Ordenamiento: 0.000022
+
+
+TAMAÑO DE NUMEROS A ORDENAR 100
+
+Tiempo De Ordenamiento: 0.000607
+Tiempo De Ordenamiento: 0.000336
+Tiempo De Ordenamiento: 0.000177
+Tiempo De Ordenamiento: 0.000178
+Tiempo De Ordenamiento: 0.000196
+Tiempo De Ordenamiento: 0.000180
+Tiempo De Ordenamiento: 0.000180
+Tiempo De Ordenamiento: 0.000178
+Tiempo De Ordenamiento: 0.000179
+Tiempo De Ordenamiento: 0.000179
+
+TAMAÑO DE NUMEROS A ORDENAR 1000
+
+Tiempo De Ordenamiento: 0.002906
+Tiempo De Ordenamiento: 0.001356
+Tiempo De Ordenamiento: 0.001354
+Tiempo De Ordenamiento: 0.001355
+Tiempo De Ordenamiento: 0.001357
+Tiempo De Ordenamiento: 0.001354
+Tiempo De Ordenamiento: 0.001353
+Tiempo De Ordenamiento: 0.001359
+Tiempo De Ordenamiento: 0.001354
+Tiempo De Ordenamiento: 0.001353
+
+
